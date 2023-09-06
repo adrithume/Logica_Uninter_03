@@ -1,6 +1,6 @@
 # Lógica de Programação <img src="https://marcas-logos.net/wp-content/uploads/2020/11/Python-logo.png" width="10%" height="10%" align="right" valign="center"/> 
 Projeto realizado na disciplina de Lógica de Programação do curso de Análise e Desenvolvimento de Sistemas, em linguagem Python, utilizando a IDE PyCharm.
-## Enunciado: 
+## Enunciado: <img src="https://www.qbssoftware.de/wp-content/uploads/2022/07/JetBrains-PyCharm.png" width="10%" height="10%" align="right" valign="center"/> 
 Imagina-se que você e sua equipe foram contratados por uma empresa de logística que acabou de entrar no ramo. Essa empresa trabalha com encomendas de pequeno e médio porte e opera somente entre 3 cidades.O valor que a empresa cobra por objeto é dado pela seguinte equação: "total = dimensões * peso * rota". Em que cada uma das variáveis que compõe o preço total é quantizada da seguinte maneira:
 ### Dimensões x Valor
 * volume < 1000 	- 10
